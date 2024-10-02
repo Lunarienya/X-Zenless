@@ -1,0 +1,13 @@
+name = "Random Buttons Be Gone"
+filename = "rbbg-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYmdex0a/versions/tUw1Ydsf/rbbg-0.0.1.jar"
+hash-format = "sha1"
+hash = "ecaf3499f3be4700f87fd209398171c2aed87414"
+
+[update]
+[update.modrinth]
+mod-id = "TYmdex0a"
+version = "tUw1Ydsf"

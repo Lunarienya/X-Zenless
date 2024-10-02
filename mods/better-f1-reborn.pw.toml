@@ -1,0 +1,13 @@
+name = "Better F1 Reborn"
+filename = "BetterF1-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/NTeDylz9/BetterF1-1.0.jar"
+hash-format = "sha1"
+hash = "3d972092690c6d65d674b0a5f030c2a872f53cad"
+
+[update]
+[update.modrinth]
+mod-id = "2JIeCmxb"
+version = "NTeDylz9"

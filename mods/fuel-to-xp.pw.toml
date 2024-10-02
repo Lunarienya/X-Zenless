@@ -1,0 +1,13 @@
+name = "Fuel to XP"
+filename = "fuel_to_xp-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7APZcsFL/versions/Guk7gTFr/fuel_to_xp-0.2.1.jar"
+hash-format = "sha1"
+hash = "a4a1e4099da17a9d035d4b74685e811a1bdb5c90"
+
+[update]
+[update.modrinth]
+mod-id = "7APZcsFL"
+version = "Guk7gTFr"

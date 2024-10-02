@@ -1,0 +1,13 @@
+name = "BetterNether Delight"
+filename = "betternetherdelight-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aSmUZhrk/versions/Yd6IUCzd/betternetherdelight-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "13b1510a8e7de77b226b86365bb1881a3760b42e"
+
+[update]
+[update.modrinth]
+mod-id = "aSmUZhrk"
+version = "Yd6IUCzd"

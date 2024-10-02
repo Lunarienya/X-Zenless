@@ -1,0 +1,13 @@
+name = "Origins: Interloper"
+filename = "interloper-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3bIy0qm/versions/XvTjQ5O0/interloper-1.5.jar"
+hash-format = "sha1"
+hash = "54ebb6df5afad93d8a022aecab2969d882d20eae"
+
+[update]
+[update.modrinth]
+mod-id = "x3bIy0qm"
+version = "XvTjQ5O0"

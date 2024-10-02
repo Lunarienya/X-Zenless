@@ -1,0 +1,13 @@
+name = "Origins: Dietary Delights"
+filename = "origins-dietary-delights-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVkoXkly/versions/GU7CK3c5/origins-dietary-delights-1.8.1.jar"
+hash-format = "sha1"
+hash = "0503fb757cec767ba51fe688d470e27ebab767ba"
+
+[update]
+[update.modrinth]
+mod-id = "BVkoXkly"
+version = "GU7CK3c5"

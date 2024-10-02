@@ -1,0 +1,13 @@
+name = "Tense Ambience"
+filename = "tenseambience-1.18.2-1.21.1-FABRIC-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9qIVVBj8/versions/mPDJgsDo/tenseambience-1.18.2-1.21.1-FABRIC-1.5.1.jar"
+hash-format = "sha1"
+hash = "7f49fa07739698dc9a5fb80124d814b671ee124d"
+
+[update]
+[update.modrinth]
+mod-id = "9qIVVBj8"
+version = "mPDJgsDo"

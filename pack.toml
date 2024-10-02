@@ -1,0 +1,13 @@
+name = "Lunarie X: Zenless"
+author = "sammyette"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4a2d0b49d732ef43e716dc177f237caa4f835d289db913e636d5a4c53e3b3ae"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "BetterEnd Delight"
+filename = "betterenddelight-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OVCqWI9/versions/b2kfb3Z3/betterenddelight-1.0.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "4b5084ef6cbe9a7c2653c967c4dd0ee5f2f1d0c9"
+
+[update]
+[update.modrinth]
+mod-id = "2OVCqWI9"
+version = "b2kfb3Z3"
