@@ -29,6 +29,10 @@ file = "config/chatpatches.json"
 hash = "43a5ce884569f5007312fea9a2a23b0a9d77bd4224dd93ace94c9da488ee541c"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "17041fc46e7190f22e11522710f53e14771c9e9e74f0660d161b2a431ae78195"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "2ca88a2052a727f6de7c49bcf5bdcd7156e3d7dc41a2fc5a9478dd31083cb376"
 
@@ -1473,11 +1477,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "a3f08bb2064ed9f69fe9fc961a7248c5ad7180b602fcbee99477a21bbdf5acb5"
+hash = "1434dc6809c61398f997477e2e4f35c609f9131f6e502f464a590c4feb587078"
 
 [[files]]
 file = "options.txt"
-hash = "aaa5e9a9b6a3d839094bf153df67020841c1118a4156c28de6bd77e319396a75"
+hash = "298fb23e6080e77eb433883ecb0ad18f8d3171f5d69852e6a0a78e0c4d303134"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
