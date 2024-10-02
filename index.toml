@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "f93b15dbc1bfbb769a410b2461cba03cc74498c66ad0b40c53364a65a0a60f1a"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/chatpatches.json"
 hash = "43a5ce884569f5007312fea9a2a23b0a9d77bd4224dd93ace94c9da488ee541c"
 
@@ -19,6 +43,14 @@ hash = "ca01094ab01ff2949ea25dd5dac190190cbe747bae7a2c491690c2951ddb9e60"
 [[files]]
 file = "config/exordium.json"
 hash = "8428e39ce6c43efe2f9c9be90e3e1a02a8ec9037acc31eabc376a6b67ae8a74f"
+
+[[files]]
+file = "config/iceandfire/iaf-client.json"
+hash = "7ca6083f6b9a6f2d438dba3a7db8064c65fc405baf1bfb0f8f8afb44b644d51f"
+
+[[files]]
+file = "config/iceandfire/iaf-common.json"
+hash = "c6a84827288137d63feaa4ee16f7c961bde5dcf8f663ab94d34c7806f9a219f7"
 
 [[files]]
 file = "knownkeys.txt"
@@ -1441,11 +1473,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "91afffa1073012932fa36867b0562b0ce91e0fe582803a487e81e5189435f52e"
+hash = "548d216c739f715e112a47913c0919a0b3f6917cc69b390498abbeb462e091bf"
 
 [[files]]
 file = "options.txt"
-hash = "edf4e86f9da4ab248c7b6e7d541da98cdfb3ad669c4e00b48a133c94a033a884"
+hash = "08a48ecef3ebef4a3dbf3d8ef64e610425fff7049b1911b6465dd837637bc8d1"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
