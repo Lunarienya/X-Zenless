@@ -791,6 +791,11 @@ hash = "78f4313fe2ee827803c19bd930a3cae5685b049c6599a222023948969412c277"
 metafile = true
 
 [[files]]
+file = "mods/improved-anvils.pw.toml"
+hash = "ae624bd5e51377b6e72991678aa16e983b4ec399e15e51a54f8f955cbeed7377"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
