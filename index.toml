@@ -501,6 +501,11 @@ hash = "187b55741505da0c523e0c705b69827998e661dfa2d03be674c9587fccd3e824"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "4620c40cc1a4acb7d70b8f262a573d2ec8c67a4843b874363f47c6dcca9cf420"
+metafile = true
+
+[[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "e913a9f62ef1dfb7bd35619b64b5d8eea821db36f69a71ca4ec95c4a48368717"
 metafile = true
@@ -773,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "79a44cccc73cb418b07f2bea85029a82428065e73519ef5b9c0444f77b041f53"
 metafile = true
 
 [[files]]
