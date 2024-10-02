@@ -21,6 +21,10 @@ file = "config/exordium.json"
 hash = "8428e39ce6c43efe2f9c9be90e3e1a02a8ec9037acc31eabc376a6b67ae8a74f"
 
 [[files]]
+file = "knownkeys.txt"
+hash = "adcf51e73777f8525c10940ec76691005b78c9288c1ecfebf4a06b8af22aa8a2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
@@ -1434,6 +1438,14 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "91afffa1073012932fa36867b0562b0ce91e0fe582803a487e81e5189435f52e"
+
+[[files]]
+file = "options.txt"
+hash = "edf4e86f9da4ab248c7b6e7d541da98cdfb3ad669c4e00b48a133c94a033a884"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
