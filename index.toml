@@ -17,6 +17,10 @@ file = "config/desiredservers/desiredservers.json"
 hash = "ca01094ab01ff2949ea25dd5dac190190cbe747bae7a2c491690c2951ddb9e60"
 
 [[files]]
+file = "config/exordium.json"
+hash = "8428e39ce6c43efe2f9c9be90e3e1a02a8ec9037acc31eabc376a6b67ae8a74f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
 metafile = true
@@ -49,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "5accd2e36c1a55de10e18c2b6b0ddf02bc7dc930d11a974c87f84a3573f75dc6"
-metafile = true
-
-[[files]]
-file = "mods/animated-doors.pw.toml"
-hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
 metafile = true
 
 [[files]]
