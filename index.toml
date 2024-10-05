@@ -94,6 +94,11 @@ hash = "75df667bf44ea3d1272430e259339d69f55db196d0d42d2baf60ada15ef18f3b"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "b337d8099a255008e7a9fc52eb057f8b7ceeabd5142037821e7ba2aad149a94a"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
 metafile = true
@@ -136,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
+file = "mods/autocrafter-early.pw.toml"
+hash = "67502f037a59374fac3d9d40b382eca6e716acacbad0490584bc3841bc779873"
 metafile = true
 
 [[files]]
@@ -336,6 +346,16 @@ metafile = true
 [[files]]
 file = "mods/collision-fix.pw.toml"
 hash = "f51cfa0397287504a6594fe7f3f2be1162d5bc763594b1701925f046f24cd8d2"
+metafile = true
+
+[[files]]
+file = "mods/combat-bash.pw.toml"
+hash = "c9d4c976d99c3cce842959fcbca911d56886e9d4039c515bf93ba700db52518d"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "f954622830360a9f542b1f9e21a4698e19436d7cd1380efab84d2c4aa5868b8c"
 metafile = true
 
 [[files]]
@@ -699,11 +719,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
-metafile = true
-
-[[files]]
 file = "mods/fuel-to-xp.pw.toml"
 hash = "c2039a9d6404725a3bf64083c320e1668a70dac317baf305b249082ba0d3263b"
 metafile = true
@@ -984,6 +999,11 @@ hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
 
 [[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "456742c191cd76913cea231cba8a45b11482d91ddb2d52309095f7da09322b04"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "c992cfc3a1ad07aad6c836abada7b9359661655f0dd7192adf504a72d41197c9"
 metafile = true
@@ -1051,6 +1071,11 @@ metafile = true
 [[files]]
 file = "mods/paper-books.pw.toml"
 hash = "82437c9387630719be27c04a59be2590447dbeeb52a30a1d6e4805910160f502"
+metafile = true
+
+[[files]]
+file = "mods/paper-doll.pw.toml"
+hash = "b8696d15eecc76e25e49c160fd0a004b365de785fa2fa914313f0e7e2fc94448"
 metafile = true
 
 [[files]]

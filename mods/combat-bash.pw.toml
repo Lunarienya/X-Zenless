@@ -1,0 +1,13 @@
+name = "Combat Bash"
+filename = "CombatBash-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYOJnfc4/versions/GuKJKRYh/CombatBash-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "e40b31262a1fb27d38f6a39d783639d0a20aadcf"
+
+[update]
+[update.modrinth]
+mod-id = "eYOJnfc4"
+version = "GuKJKRYh"
