@@ -385,11 +385,6 @@ hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
 
 [[files]]
-file = "mods/create-deepfried.pw.toml"
-hash = "6b2204d1b540f69427d516074a3d225870e7b40501a1bbe3d66fbeebfc25452b"
-metafile = true
-
-[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
 metafile = true
