@@ -1465,11 +1465,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "5209155130d556eceff70bce43a871a10a67aa0737aceb639eb74339b667768f"
+hash = "079a0ead9a18bf46a3e0d5747f92745241e95a7cf63047ddc62f86bb63d7f690"
 
 [[files]]
 file = "options.txt"
-hash = "2440c06bd220a277954ae8b7a98ffd50b4f9b5bbe2fb5b2b86cf27f5eaa32f1f"
+hash = "005d38f9c0a096a3d3daf3907fd0fdc878a9dd88633d15acef394b14146abea8"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
