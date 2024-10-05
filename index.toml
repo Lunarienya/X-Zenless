@@ -294,6 +294,11 @@ hash = "3397c5fb311bb7cd395bcf1a65ca4f9a697a0903a6e550f2608efa2cef00b19d"
 metafile = true
 
 [[files]]
+file = "mods/chatsounds.pw.toml"
+hash = "692204b425967feefcdd8f2ce4046c7e0c68376d7496401b846590bbfc622b56"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
@@ -694,6 +699,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
+metafile = true
+
+[[files]]
 file = "mods/fuel-to-xp.pw.toml"
 hash = "c2039a9d6404725a3bf64083c320e1668a70dac317baf305b249082ba0d3263b"
 metafile = true
@@ -746,6 +756,11 @@ metafile = true
 [[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
+metafile = true
+
+[[files]]
+file = "mods/horse-stonks.pw.toml"
+hash = "bd52187d03c77cb1b50e23c2e17553a212617a16c3d492a3f44279397cceed6e"
 metafile = true
 
 [[files]]
@@ -1489,4 +1504,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "208fd3dd1d0e99f0510cde9acaeda178a7b10f24cf2a3034e9f0aec7d2544b64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-cave-sounds.pw.toml"
+hash = "aaa19cc7710d1d60d37ed402a9ff0c2509689639c71fab4531910911353be718"
+metafile = true
+
+[[files]]
+file = "resourcepacks/weeping-stone.pw.toml"
+hash = "a58b26509feb95205d78c7403d525267a8e4a5569807cb21ffae37dc6bf0ee99"
 metafile = true

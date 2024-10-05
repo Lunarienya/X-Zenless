@@ -1,0 +1,13 @@
+name = "Weeping stone"
+filename = "Weeping stone.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DzCktxbF/versions/R3gDKt2u/Weeping%20stone.zip"
+hash-format = "sha1"
+hash = "14432bca80fd1c74f46857d6f79d86b625880f8b"
+
+[update]
+[update.modrinth]
+mod-id = "DzCktxbF"
+version = "R3gDKt2u"

@@ -1,0 +1,13 @@
+name = "More Cave Sounds"
+filename = "More Cave Sounds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hwexxTUf/versions/dEmJZlpt/More%20Cave%20Sounds.zip"
+hash-format = "sha1"
+hash = "e97d9c800d36420f01f8896f962627b4989e0dd0"
+
+[update]
+[update.modrinth]
+mod-id = "hwexxTUf"
+version = "dEmJZlpt"
