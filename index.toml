@@ -10,7 +10,7 @@ hash = "f93b15dbc1bfbb769a410b2461cba03cc74498c66ad0b40c53364a65a0a60f1a"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
+hash = "f5b21bbf4a4bb66d6e9e7d4744236f10bd9b764d3c06c75e3bdaf970250719e9"
 
 [[files]]
 file = "config/bclib/generator.json"
