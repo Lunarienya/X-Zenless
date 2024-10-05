@@ -335,11 +335,6 @@ hash = "6f133eaa2a59b7092fe6d8dbe2f9732aa0507e9d06ecd17ea861817093585c74"
 metafile = true
 
 [[files]]
-file = "mods/combatlog.pw.toml"
-hash = "7bda6abf98f33be0f10b219deba36e3b7af97c2a74068c20636b0974a9c08cb7"
-metafile = true
-
-[[files]]
 file = "mods/companion.pw.toml"
 hash = "67be00e90305d9734ab1ae054eb5ca355a8daafc2e0c9ebe3cbc3e4eeb6a0e11"
 metafile = true
