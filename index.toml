@@ -419,11 +419,6 @@ hash = "75c295073f2108572803ff4c171a90ccf1926c6a69793aa0cc18a041fa4e14c5"
 metafile = true
 
 [[files]]
-file = "mods/create-simple-ore-doubling.pw.toml"
-hash = "7f297360ba0b1a6862f0b4b7cebcce80e12f87a4d4005817a04a54c6f15e01bf"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
