@@ -629,6 +629,16 @@ hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "2a323b56ae9593d1e0c332226db2a334efa6d2550faeebdd0442d420fcd081d5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "bf85dfb8fd62da71694b9f96c76eddc80b8b2e555b4d7a366b884160510e30b9"
 metafile = true
@@ -1151,6 +1161,11 @@ metafile = true
 [[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "6f565916286c0436c8393297438db195cda9eb09625f42d6aa0a7db4c84fc928"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "e9ebb13e9e6a16c558652def1c59edeb1558a713c98e1c6df6a3145a2140d21d"
 metafile = true
 
 [[files]]
