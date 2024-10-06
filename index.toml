@@ -65,6 +65,10 @@ file = "config/sodium-extra-options.json"
 hash = "9797c914dc2d037803144101a0f16302afb284556c54c831af85be49d9575f24"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "090fa74392388738c0047c91a39e06df92a0f617009ac65b60d102422aecfc4f"
+
+[[files]]
 file = "knownkeys.txt"
 hash = "adcf51e73777f8525c10940ec76691005b78c9288c1ecfebf4a06b8af22aa8a2"
 
