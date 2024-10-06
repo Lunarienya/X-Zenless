@@ -723,6 +723,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "e991e67f99af2c64026113f7abdcec84a744abaa0ea8611dda093b093b01b487"
+metafile = true
+
+[[files]]
 file = "mods/fuel-to-xp.pw.toml"
 hash = "c2039a9d6404725a3bf64083c320e1668a70dac317baf305b249082ba0d3263b"
 metafile = true
