@@ -533,6 +533,16 @@ hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "dead5151ec5147b05c659468f2c7e32bd314fa51ba789c62b1c2f72c6c94a82d"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
@@ -1499,11 +1509,11 @@ metafile = true
 
 [[files]]
 file = "options.amecsapi.txt"
-hash = "079a0ead9a18bf46a3e0d5747f92745241e95a7cf63047ddc62f86bb63d7f690"
+hash = "1f5b85ecae5fc4b11367b0d43926596fdd0411bcdfd97ac5b2deb485b6f1996b"
 
 [[files]]
 file = "options.txt"
-hash = "005d38f9c0a096a3d3daf3907fd0fdc878a9dd88633d15acef394b14146abea8"
+hash = "333c1ca10854bae3bf1f15a285a34d5e7e20438e19b9bb053157e2f576c330c6"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
