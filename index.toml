@@ -238,11 +238,6 @@ hash = "ab67c65cbc5aae77cc39bb4ceb542aa239445ae209e5e6b246dac68fc9873dcf"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-of-undying.pw.toml"
-hash = "528bf0fe0e6e7b9a786aa5a314f1d55abb64bf45b584644358103c33cd8a7e78"
-metafile = true
-
-[[files]]
 file = "mods/blood-moon.pw.toml"
 hash = "0c095c42fcd6cbc92dbb5e625510a59b1beb74be2d4b6c35ff640e9b0a481c26"
 metafile = true
@@ -288,11 +283,6 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
-file = "mods/brute-force-rendering-culling.pw.toml"
-hash = "0a2c1d93daf829eb05813045047c3e174e952c8201626d5d7eca16b7bbd0ad94"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
@@ -305,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "3397c5fb311bb7cd395bcf1a65ca4f9a697a0903a6e550f2608efa2cef00b19d"
-metafile = true
-
-[[files]]
-file = "mods/chatsounds.pw.toml"
-hash = "692204b425967feefcdd8f2ce4046c7e0c68376d7496401b846590bbfc622b56"
 metafile = true
 
 [[files]]
@@ -470,11 +455,6 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
-hash = "0e1980f8fddb9f78de5b3120e70b795317bc4abfab7f5c0e6d89254af082b069"
 metafile = true
 
 [[files]]
@@ -1310,6 +1290,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "0f18b132bd589294c70366aa84531f10dbc7d1fc375233a1731af2b3b26652f4"
+metafile = true
+
+[[files]]
+file = "mods/sneak-tweak.pw.toml"
+hash = "7aae47eb687caa1487006742aa21a931c53e99adcf1249376d921a60342913cf"
 metafile = true
 
 [[files]]
