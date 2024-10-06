@@ -61,6 +61,10 @@ file = "config/realcamera.json"
 hash = "6c8597fcb93ad7b7d89fae0b291b534692c91b04e06660aba823aab590b58f56"
 
 [[files]]
+file = "config/smoothscroll.json"
+hash = "01459eab888f486fa1861f9172fa895746a4a6641b0dc1af8d374be9924090d3"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "9797c914dc2d037803144101a0f16302afb284556c54c831af85be49d9575f24"
 
