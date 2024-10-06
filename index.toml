@@ -628,6 +628,11 @@ hash = "c331ccd0db322333e9775b45ed0a77a55c4684e97157fd31caeb6bd282dd2f18"
 metafile = true
 
 [[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "32aac801838ce93ccca60ec99f04293546985c8bc2e2d19fba46953e66a3f53e"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "f9669389791dae261bd6727ea8101d67c39ce6c385fe7341a469b0a59c0b745c"
 metafile = true
@@ -923,6 +928,11 @@ hash = "cd1e54a0717ec21306365b8a87869bfad2afb694d273c83367eac9028775ae8d"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "7360de6463f20c08edaeff169419707f24c3ad7359e147fd717dedc70fd1c111"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -1048,6 +1058,11 @@ hash = "13a6776b6e17d32a8dcc74932ce4af8b13290b1c90fe4c91b41abbd2b2c0d569"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
+metafile = true
+
+[[files]]
 file = "mods/orb-of-origin-plus.pw.toml"
 hash = "7f936aa1274e92c5c1f7120aea5b17ca48ccc5080d9ca3f0260b56073f9188df"
 metafile = true
@@ -1085,6 +1100,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "900833abd36f0ee86bec744a031c4bc0ac11f13efcda83b9e26b4a89bc12b9a8"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "2f3066495ac5c5817979fcd2e52036aae2606747f285b673f3fcb0f8672c9622"
 metafile = true
 
 [[files]]
@@ -1243,6 +1268,11 @@ hash = "eb4744f9da8502d485fcca86d7c5ee2885c50977162ae27dd1e7aa4022d788af"
 metafile = true
 
 [[files]]
+file = "mods/servertick.pw.toml"
+hash = "6d24776287ac46585ab1c7f451c67d90b1b477f61237a57218f22378dbae7ad7"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
@@ -1333,6 +1363,11 @@ hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
 
 [[files]]
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -1343,8 +1378,8 @@ hash = "d72660f90862107f6d4344c58eced7b7f460981e7591f8577afaba371c3f6fa8"
 metafile = true
 
 [[files]]
-file = "mods/tree-harvester.pw.toml"
-hash = "2f3085d8ca835f6afecfd6978e5b20f0bd9beeb12a0902b5c01e12f8afa1ae96"
+file = "mods/tool-trims.pw.toml"
+hash = "10617ea3b7c98cc38a57220ac9cd801bbbd99a76f56973040a330690f5782333"
 metafile = true
 
 [[files]]
