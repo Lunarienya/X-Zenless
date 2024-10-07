@@ -1,0 +1,13 @@
+name = "Lifesteal"
+filename = "lifesteal-7.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YX0eip4b/versions/gthTWlbG/lifesteal-7.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "73126cf035432bbe0e010f9dc57b7e72ac1b8b15"
+
+[update]
+[update.modrinth]
+mod-id = "YX0eip4b"
+version = "gthTWlbG"

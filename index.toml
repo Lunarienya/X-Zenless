@@ -397,6 +397,11 @@ hash = "a361c737c2bf9a9f6b35d59fce77604a6f0a582e4c6229bae7c3fc58fd6097ef"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "8023989ea674b490fbf84daac15359f628457c22f1702db8655f3c576e7f5b10"
+metafile = true
+
+[[files]]
 file = "mods/create-air-fabric.pw.toml"
 hash = "c5ed8f788371776fa029b0e5a2ea95b56ffd7611a1b31dc93100d39d0f1fcbd5"
 metafile = true
@@ -892,6 +897,11 @@ hash = "d6d76f9f3f73047163fd8255ffcd709ef071bd941d128d5dcb3da7d7b344533d"
 metafile = true
 
 [[files]]
+file = "mods/lifesteal-mian.pw.toml"
+hash = "4aa4ccca825bbe5e3082fa00d5167f972060d4f891412676b37337dc9e13dd9a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -899,6 +909,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6e3e8ae15d0c049beec2c3348c9884fbd92fd542c463228bd39423c2e6c81dfc"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "0e2f681845283e7bd4e9b9fbd368d51667709a0a5d8cd1c131183310085f044b"
 metafile = true
 
 [[files]]
