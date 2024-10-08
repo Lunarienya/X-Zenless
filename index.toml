@@ -927,6 +927,11 @@ hash = "d6d76f9f3f73047163fd8255ffcd709ef071bd941d128d5dcb3da7d7b344533d"
 metafile = true
 
 [[files]]
+file = "mods/lifesteal-mian.pw.toml"
+hash = "6d5edf9e37d4f7ebd71c00516a4bfd8ca698580a7d0fc58bbd34888be177b3d4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
