@@ -1,0 +1,13 @@
+name = "Effective Invisibility"
+filename = "effectiveinvisibility-mc1.20.4-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jK0tfrIW/versions/fSkC9Qwf/effectiveinvisibility-mc1.20.4-1.0.0.jar"
+hash-format = "sha1"
+hash = "8195f9aa2cfa4cffb19823a23d8eead160d282b3"
+
+[update]
+[update.modrinth]
+mod-id = "jK0tfrIW"
+version = "fSkC9Qwf"

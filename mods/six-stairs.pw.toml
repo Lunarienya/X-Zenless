@@ -1,0 +1,13 @@
+name = "6 Stairs"
+filename = "6-stairs-mcmeta-4-26_1.13-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9j9zvJBV/versions/7fhil1n9/6-stairs-mcmeta-4-26_1.13-1.20.4.jar"
+hash-format = "sha1"
+hash = "704b98e0f112725644aa930601741b66ee6de1a0"
+
+[update]
+[update.modrinth]
+mod-id = "9j9zvJBV"
+version = "7fhil1n9"

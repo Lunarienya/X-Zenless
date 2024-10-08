@@ -157,6 +157,11 @@ hash = "67502f037a59374fac3d9d40b382eca6e716acacbad0490584bc3841bc779873"
 metafile = true
 
 [[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "fee4848b1eec519d8480155166673d054fec75f35c32ffa4d203eb9cc0721e56"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
@@ -199,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/better-f1-reborn.pw.toml"
 hash = "c03d48eed96ab15ed32e08205a262c8a501114b235c37dbf5c667d61c442f6db"
+metafile = true
+
+[[files]]
+file = "mods/better-frost-walker.pw.toml"
+hash = "976577d87d87b7a00f3d2f2b25dfa4b632424dedd7af28811fc3fe3c30632652"
 metafile = true
 
 [[files]]
@@ -567,6 +577,11 @@ hash = "2c300c56461c84e38ec442c436ae10dbbbca0cb254d352c40a3c03f636c29cd2"
 metafile = true
 
 [[files]]
+file = "mods/effective-invisibility.pw.toml"
+hash = "e5699908d82e7c5bdb6561e7c13e3c7f3c5611d6b937140ee9fbb85397612a78"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "0104e19b198031d54209e57a0225cf7de4d096ae0979bee0214ba1e29ad8ef19"
 metafile = true
@@ -702,6 +717,11 @@ hash = "82d79ccb90397c279befef3c7252afd1651705085ac33429db44f58047a43662"
 metafile = true
 
 [[files]]
+file = "mods/fast-portals.pw.toml"
+hash = "5a3986b4eef6fa85b94c1585770e8ce1ed38e0c5a4c53ad421619fea33636be7"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
@@ -787,6 +807,11 @@ hash = "0df89bff2cac3b4aade82fc49f39727458596d0845297a5099a1201bae5db3ea"
 metafile = true
 
 [[files]]
+file = "mods/hero-proof.pw.toml"
+hash = "2bb1e2e5b12b5e2c52cd6037be6d514027f6194e7d54c32e13f79b5cd753220e"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
@@ -824,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "78f4313fe2ee827803c19bd930a3cae5685b049c6599a222023948969412c277"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
 metafile = true
 
 [[files]]
@@ -1302,6 +1332,11 @@ hash = "0194d00e6892b9eb20c21d90639044bdd5453de8011d3b3a83bbfb3b520743ce"
 metafile = true
 
 [[files]]
+file = "mods/six-stairs.pw.toml"
+hash = "84e25cc77dd6840d09f6f9df2efc6f2c105071833dbcea5d1f0a666ed22893fc"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "35242355a5725fc5ee4b6e6929f534fdbb32b05e9a7f149f670fcd97eb743079"
 metafile = true
@@ -1417,6 +1452,11 @@ hash = "65c6a19fc252bbdba213abe2fa182ec1859fc6072d7ae26b564cbe7fac836852"
 metafile = true
 
 [[files]]
+file = "mods/villagers-far-from-home.pw.toml"
+hash = "aa09554fbd513dc104efd4d4abb31e415444e32cc6955c3c5ee9745e1860a217"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
@@ -1424,6 +1464,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
+
+[[files]]
+file = "mods/warden-bossbar.pw.toml"
+hash = "53cd65dc03921ee368bb36ff2b13f0bd9e3084844d2ed6f7dbfd46f3b7954da4"
 metafile = true
 
 [[files]]

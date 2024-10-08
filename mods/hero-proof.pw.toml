@@ -1,0 +1,13 @@
+name = "Hero Proof"
+filename = "hero-proof-5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDmztpJg/versions/kpRYnVyF/hero-proof-5.2.jar"
+hash-format = "sha1"
+hash = "1b1e3e22582982e2937d25109f3ef8c5be1984a8"
+
+[update]
+[update.modrinth]
+mod-id = "GDmztpJg"
+version = "kpRYnVyF"
