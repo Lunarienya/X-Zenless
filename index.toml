@@ -207,11 +207,6 @@ hash = "c03d48eed96ab15ed32e08205a262c8a501114b235c37dbf5c667d61c442f6db"
 metafile = true
 
 [[files]]
-file = "mods/better-frost-walker.pw.toml"
-hash = "976577d87d87b7a00f3d2f2b25dfa4b632424dedd7af28811fc3fe3c30632652"
-metafile = true
-
-[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "a3cb67ec07bf96deae57a095a0d2b2a77954914084b7e120cad8ad67fabc00ac"
 metafile = true
