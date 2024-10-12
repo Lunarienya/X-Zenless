@@ -942,6 +942,11 @@ hash = "6e3e8ae15d0c049beec2c3348c9884fbd92fd542c463228bd39423c2e6c81dfc"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
+metafile = true
+
+[[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "0e2f681845283e7bd4e9b9fbd368d51667709a0a5d8cd1c131183310085f044b"
 metafile = true
