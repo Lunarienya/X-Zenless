@@ -1202,6 +1202,11 @@ hash = "e0718fa0563cabd944fddf89bcef0e30aad2d5e511e3a746afa6ed2a9c3d076b"
 metafile = true
 
 [[files]]
+file = "mods/quickbench.pw.toml"
+hash = "7c5503b6195252b1b8286184e5683d5bc3d8905a58f10941180d0f805d9ee395"
+metafile = true
+
+[[files]]
 file = "mods/railoptimization.pw.toml"
 hash = "94298bd5b9d44a0707e58310c8e84b8c610f9ea758d302623690294b4c307403"
 metafile = true
