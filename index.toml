@@ -537,6 +537,11 @@ hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "dead5151ec5147b05c659468f2c7e32bd314fa51ba789c62b1c2f72c6c94a82d"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
