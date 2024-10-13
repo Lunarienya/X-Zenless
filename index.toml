@@ -26,7 +26,7 @@ hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/chatpatches.json"
-hash = "43a5ce884569f5007312fea9a2a23b0a9d77bd4224dd93ace94c9da488ee541c"
+hash = "7001642d7679802d828820898cce421a218ef4b06aef56d02fe935abd2b3a459"
 
 [[files]]
 file = "config/craftpresence.json"

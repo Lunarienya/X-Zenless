@@ -4,7 +4,7 @@
   "timeFormat": "$ \u00268|\u0026r",
   "timeColor": 16733695,
   "hover": true,
-  "hoverDate": "MM/dd/yyyy",
+  "hoverDate": "dd/MM/yyyy",
   "hoverFormat": "$",
   "hoverColor": 16777215,
   "counter": true,
