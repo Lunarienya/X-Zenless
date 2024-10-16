@@ -1,0 +1,13 @@
+name = "Uncrafter"
+filename = "uncrafter-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q6iSQrx6/versions/RjfaBvIz/uncrafter-fabric-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "ba747437a7ec966f532cb1660b709610b91add44"
+
+[update]
+[update.modrinth]
+mod-id = "Q6iSQrx6"
+version = "RjfaBvIz"

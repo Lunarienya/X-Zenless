@@ -532,16 +532,6 @@ hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
 
 [[files]]
-file = "mods/dynamiccrosshair.pw.toml"
-hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
-metafile = true
-
-[[files]]
-file = "mods/dynamiccrosshaircompat.pw.toml"
-hash = "dead5151ec5147b05c659468f2c7e32bd314fa51ba789c62b1c2f72c6c94a82d"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
@@ -609,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-falling-trees.pw.toml"
+hash = "61c73f860d361e4b96ab783a317fd4aac68395ec03af18688ebf95172f3c9e1a"
 metafile = true
 
 [[files]]
@@ -1042,11 +1037,6 @@ hash = "28b4948ace6efc4dd678c7aebc8c67464721959abb9df088be23bdbbfb6c69eb"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
@@ -1139,11 +1129,6 @@ metafile = true
 [[files]]
 file = "mods/pandalib.pw.toml"
 hash = "900833abd36f0ee86bec744a031c4bc0ac11f13efcda83b9e26b4a89bc12b9a8"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "2f3066495ac5c5817979fcd2e52036aae2606747f285b673f3fcb0f8672c9622"
 metafile = true
 
 [[files]]
@@ -1272,16 +1257,6 @@ hash = "2a3952446f1c8e8e9be2f79676510faeb92c130c10ff74f2d8d2cf89db55708b"
 metafile = true
 
 [[files]]
-file = "mods/sculk-depths.pw.toml"
-hash = "ec3d846479055d32acab7c772f91f75c4309880defaa4e5f62e52ecfe669860c"
-metafile = true
-
-[[files]]
-file = "mods/sculk-expansion.pw.toml"
-hash = "6f565916286c0436c8393297438db195cda9eb09625f42d6aa0a7db4c84fc928"
-metafile = true
-
-[[files]]
 file = "mods/seasonhud-fabric.pw.toml"
 hash = "e9ebb13e9e6a16c558652def1c59edeb1558a713c98e1c6df6a3145a2140d21d"
 metafile = true
@@ -1387,11 +1362,6 @@ hash = "b13a0bd64c3822300fe58bc2825c63fa7ea6bb2d1fba7a948ebd70b8e93dac64"
 metafile = true
 
 [[files]]
-file = "mods/stutterfix.pw.toml"
-hash = "0174f372918ed7eb79d853c42943495b0d5d9bb6ab7326ca30f466dbc340d4ef"
-metafile = true
-
-[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "7fdfc826f000e59d53276a4db0619b2e478d9afccb871c8881d687af7952ad18"
 metafile = true
@@ -1434,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/tt20.pw.toml"
 hash = "13d13b564a14aa3f9597050571fc1f6285eadd13c7ef144af05f3be20745e73b"
+metafile = true
+
+[[files]]
+file = "mods/uncrafter.pw.toml"
+hash = "b22d9ff013dfa7715cf564b5d78e12300cc023761bd81dbff735efececbfb80d"
 metafile = true
 
 [[files]]
