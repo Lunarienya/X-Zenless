@@ -122,6 +122,11 @@ hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "61c71aa07fd9db7729be843e369944da5faa76abba2b4052612ebcfd2e12acfb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -149,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "8f947d9de62d62ed76b375a61b9e36fdb5aaa8eb85e571a7811282fa05b4287e"
 metafile = true
 
 [[files]]
@@ -1067,6 +1077,11 @@ hash = "a679886f4f403a5479e932658d6ec7750f38c4fa9c10e61b02b6be23c57a5bd7"
 metafile = true
 
 [[files]]
+file = "mods/noanysus.pw.toml"
+hash = "5f8a2b2f531f8b1374ba131b40769e8f2a81d2147a62d28fd38f9587a96a3327"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
 metafile = true
@@ -1269,11 +1284,6 @@ metafile = true
 [[files]]
 file = "mods/serverpingerfixer.pw.toml"
 hash = "1e392b828a8beb7670a4c2eb46d413acfa8552f2889b7d10e3a4ca715310677f"
-metafile = true
-
-[[files]]
-file = "mods/serversleep.pw.toml"
-hash = "eb4744f9da8502d485fcca86d7c5ee2885c50977162ae27dd1e7aa4022d788af"
 metafile = true
 
 [[files]]

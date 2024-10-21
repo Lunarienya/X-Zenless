@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-1.20.1-1.11.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/X5VnNQLt/audioplayer-fabric-1.20.1-1.11.1.jar"
+hash-format = "sha1"
+hash = "b7309f403d776dfb2657dce04d98a453768a729b"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "X5VnNQLt"
