@@ -612,11 +612,6 @@ hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-falling-trees.pw.toml"
-hash = "61c73f860d361e4b96ab783a317fd4aac68395ec03af18688ebf95172f3c9e1a"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "2beb95d8ff5770b423a562d408305b92c20b873a1d3b56f059d2837ea61fbbe4"
 metafile = true
