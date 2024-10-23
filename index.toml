@@ -577,13 +577,13 @@ hash = "e5699908d82e7c5bdb6561e7c13e3c7f3c5611d6b937140ee9fbb85397612a78"
 metafile = true
 
 [[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "0104e19b198031d54209e57a0225cf7de4d096ae0979bee0214ba1e29ad8ef19"
+file = "mods/elytra-slot.pw.toml"
+hash = "355f7aba91cf0254f726370c779091f431e535597ff10c4c684685f5d7ef5c65"
 metafile = true
 
 [[files]]
-file = "mods/elytra_trinket.pw.toml"
-hash = "755a85188faa0c454c1c52498274c3286a19a31c82bd1693b5bdc261cead213c"
+file = "mods/elytra-trims.pw.toml"
+hash = "0104e19b198031d54209e57a0225cf7de4d096ae0979bee0214ba1e29ad8ef19"
 metafile = true
 
 [[files]]
