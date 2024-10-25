@@ -1387,6 +1387,11 @@ hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
+file = "mods/tick-stasis.pw.toml"
+hash = "fd8c56cc47b637a51a235badf7b285df0c1d43160c3668f1d759816f1d2edebb"
+metafile = true
+
+[[files]]
 file = "mods/toadlib.pw.toml"
 hash = "d72660f90862107f6d4344c58eced7b7f460981e7591f8577afaba371c3f6fa8"
 metafile = true
